@@ -1,0 +1,3 @@
+rootProject.name = "MadSampleKoin"
+include ':app',
+        ':mad-sample-koin'
