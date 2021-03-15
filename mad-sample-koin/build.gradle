@@ -39,7 +39,7 @@ dependencies {
     api "androidx.appcompat:appcompat:$xVersion"
     api "androidx.fragment:fragment-ktx:$xFragment"
 
-    api 'com.github.TooLazyy:mad-core:v1.0.0'
+    api "com.github.TooLazyy:mad-core:$madCoreVersion"
 
     //koin
     api "org.koin:koin-android:$koinVersion"
