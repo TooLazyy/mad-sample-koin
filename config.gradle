@@ -8,8 +8,8 @@ ext {
     buildTools = "30.0.2"
 
     //version
-    vCode = 3
-    vName = "1.0.2"
+    vCode = 4
+    vName = "1.0.4"
 
     //gradle
     gradleVersion = '4.1.2'
@@ -28,5 +28,5 @@ ext {
     xMultidex = '2.0.1'
 
     //mad
-    madCoreVersion = 'v1.0.1'
+    madCoreVersion = 'v1.0.3'
 }
